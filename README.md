@@ -1,6 +1,3 @@
-# MedInsight
-
-v
 
 # **Med Insight | Hospital Orchestration & Command Centre**
 
