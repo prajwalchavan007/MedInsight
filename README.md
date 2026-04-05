@@ -15,7 +15,6 @@ Hospitals frequently face **Access Block** — where patients remain in emergenc
 
 Instead of reacting to bottlenecks, administrators can:
 
-* Anticipate capacity constraints
 * Optimize patient movement
 * Coordinate across hospital networks
 
@@ -92,8 +91,8 @@ Instead of reacting to bottlenecks, administrators can:
 * Custom **Glassmorphism design** via CSS injection
 * Centralized styling through:
 
-  * `styles.py`
-  * `components.py`
+  * `styles.py`#
+  * `components.py`#
 
 ---
 
